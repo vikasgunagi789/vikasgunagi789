@@ -3,24 +3,19 @@
 
 ---
 
-🌱 Currently Learning:
+Currently Learning:
 - Data Structures & Algorithms
 - Full Stack Development
 - AI Integration
 
-💻 Tech Stack:
+Tech Stack:
 - C
 - JavaScript
-<img alt="Buildkite" src="https://img.shields.io/buildkite/:identifier">
-
+- html
 - CSS
 - Node.js
 - Express.js
 - Git & GitHub
-
-🚀 Projects:
-- CareMate AI
-- DSA Practice Repository
 
 📫 Connect with me:
 - LinkedIn: https://linkedin.com/in/YOUR-LINK
