@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vikas Gunagi</h1>
+<h3 align="center">CSE Student | AI & Web Development Enthusiast</h3>
 
-<!--
-**vikasgunagi789/vikasgunagi789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 Currently Learning:
+- Data Structures & Algorithms
+- Full Stack Development
+- AI Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+- C
+- JavaScript
+- HTML
+- CSS
+- Node.js
+- Express.js
+- Git & GitHub
+
+🚀 Projects:
+- CareMate AI
+- DSA Practice Repository
+
+📫 Connect with me:
+- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- GitHub: https://github.com/vikasgunagi789
+
+---
+
+## 🚀 GitHub Stats
+
+![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasgunagi789&show_icons=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=vikasgunagi789)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasgunagi789&layout=compact)
