@@ -11,7 +11,8 @@
 💻 Tech Stack:
 - C
 - JavaScript
-- HTML
+<img alt="Buildkite" src="https://img.shields.io/buildkite/:identifier">
+
 - CSS
 - Node.js
 - Express.js
