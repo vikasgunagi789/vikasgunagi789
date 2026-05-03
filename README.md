@@ -18,7 +18,7 @@ Tech Stack:
 - Git & GitHub
 
 📫 Connect with me:
-- LinkedIn: https://linkedin.com/in/vikas-gunagi
+- LinkedIn: [https://linkedin.com/in/vikas-gunagi](https://www.linkedin.com/in/vikas-gunagi-33ba48298/)
 - GitHub: https://github.com/vikasgunagi789
 
 ---
