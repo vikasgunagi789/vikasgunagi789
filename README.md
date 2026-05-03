@@ -1,5 +1,5 @@
 <h1 align="center">Hi..., I'm Vikas Gunagi</h1>
-<h3 align="center">ISE (CSE) Student | AI & Web Development Enthusiast</h3>
+<h3 align="center">Web Development Enthusiast</h3>
 
 ---
 
