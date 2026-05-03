@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikas Gunagi</h1>
+<h1 align="center">Hi..., I'm Vikas Gunagi</h1>
 <h3 align="center">CSE Student | AI & Web Development Enthusiast</h3>
 
 ---
@@ -23,18 +23,8 @@ Tech Stack:
 
 ---
 
-## 🚀 GitHub Stats
-
-![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikasgunagi789&show_icons=true)
-
----
-
-## 🔥 GitHub Streak
+## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vikasgunagi789)
 
 ---
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasgunagi789&layout=compact)
